@@ -19,7 +19,7 @@
 </div>
 
 # Seata: Simple Extensible Autonomous Transaction Architecture
-
+ 
 [![build](https://github.com/apache/incubator-seata/actions/workflows/build.yml/badge.svg)](https://github.com/apache/incubator-seata/actions/workflows/build.yml)
 [![codecov](https://codecov.io/gh/apache/incubator-seata/graph/badge.svg?token=tbmHt2ZfxO)](https://codecov.io/gh/apache/incubator-seata)
 [![license](https://img.shields.io/github/license/apache/incubator-seata.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
